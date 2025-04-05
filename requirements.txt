@@ -3,3 +3,4 @@ scikit-learn
 streamlit
 ollama
 pickle-mixin
+matplotlib
