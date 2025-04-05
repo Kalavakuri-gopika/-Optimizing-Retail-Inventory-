@@ -6,5 +6,5 @@ pickle-mixin
 matplotlib
 agents
 numpy
-tensorflow
+tensorflow==1.15
 contrib
