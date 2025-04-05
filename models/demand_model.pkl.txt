@@ -1,0 +1,1 @@
+python -c "from agents.demand_agent import DemandAgent; DemandAgent().train_model()"
