@@ -5,3 +5,4 @@ ollama
 pickle-mixin
 matplotlib
 agents
+numpy
