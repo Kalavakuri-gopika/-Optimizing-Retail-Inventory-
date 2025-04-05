@@ -7,3 +7,4 @@ matplotlib
 agents
 numpy
 tensorflow
+contrib
