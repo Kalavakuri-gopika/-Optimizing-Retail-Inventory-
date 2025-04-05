@@ -4,3 +4,4 @@ streamlit
 ollama
 pickle-mixin
 matplotlib
+agents
