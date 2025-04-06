@@ -2,7 +2,7 @@ name: Build and deploy Python app to Azure Web App
 
 env:
   AZURE_WEBAPP_NAME: Optimizing-Retail-Inventory-with-Multi-Agents  # Azure Web App name
-  PYTHON_VERSION: '3.13'                                            # Python version to use
+  PYTHON_VERSION: '3.10'                                            # Python version to use
 
 on:
   push:
