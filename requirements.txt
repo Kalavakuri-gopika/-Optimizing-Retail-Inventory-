@@ -1,5 +1,4 @@
-pandas
-scikit-learn
 streamlit
-ollama
-pickle-mixin
+pandas
+matplotlib
+
