@@ -1,10 +1,6 @@
+streamlit
 pandas
 scikit-learn
-streamlit
-ollama
-pickle-mixin
 matplotlib
-agents
 numpy
-tensorflow==1.15
-contrib
+tensorflow==2.14.0
