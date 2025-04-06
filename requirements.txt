@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 streamlit
 pandas
 matplotlib
 
+=======
+streamlit==1.44.1
+pandas
+scikit-learn
+matplotlib
+numpy
+>>>>>>> 0394460cc5a51457b5df189a1756ea8327bc6850
