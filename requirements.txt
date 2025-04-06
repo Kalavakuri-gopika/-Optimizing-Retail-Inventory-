@@ -5,3 +5,5 @@ matplotlib
 numpy
 joblib
 agents
+tensorflow 
+tensorflow-probability
