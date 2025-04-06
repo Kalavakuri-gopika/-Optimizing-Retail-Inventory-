@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Multi-Agent Inventory Optimization System
 
 A smart retail system using AI agents to optimize inventory, pricing, and supply chain collaboration.
@@ -20,6 +20,4 @@ streamlit run app/main.py
 ```bash
 python -c "from agents.demand_agent import DemandAgent; DemandAgent().train_model()"
 ```
-=======
-# Optimizing-Retail-Inventory-with-Multi-Agents
->>>>>>> 95fee3c956bd104815ac7294ec73282b4fea8966
+
